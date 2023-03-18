@@ -26,3 +26,5 @@ To use the script, run one of the following commands in the programmable block's
 - status: Displays the status of the rover's systems (ore detector and drills) on the LCD panel.
 
 Link to PAM's script: https://steamcommunity.com/sharedfiles/filedetails/?id=1507646929
+
+.cbrwx
