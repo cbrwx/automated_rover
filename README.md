@@ -24,3 +24,5 @@ To use the script, run one of the following commands in the programmable block's
 - start: Starts the mining process, activates the ore detector and drills, and starts the PAM script.
 - stop: Stops the mining process, deactivates the ore detector and drills, and stops the PAM script.
 - status: Displays the status of the rover's systems (ore detector and drills) on the LCD panel.
+
+Link to PAM's script: https://steamcommunity.com/sharedfiles/filedetails/?id=1507646929
